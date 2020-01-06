@@ -17,4 +17,5 @@ ON table1.column_name = table2.column_name;
 ```
 
 |Name|ID|
+|-------||---------|
 |Udani|2|
